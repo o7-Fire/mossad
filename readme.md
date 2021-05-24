@@ -7,4 +7,4 @@
 This is just dumpster pt2, o7fire.tk sourcecode will be uploaded here
 
 
-preview at https://o7-fire.github.io/mossad/
+preview at https://o7-fire.github.io/mossad/index.html
