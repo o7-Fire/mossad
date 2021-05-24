@@ -1,0 +1,27 @@
+name: O7 site CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+
+  
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build the site in the jekyll/builder container
+      run: |
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+
+    - name: Jekyll Screenshot
+     # You may pin to the exact commit or the version.
+     # uses: hakierspejs/jekyll-screenshot-github-action@d43cdc6a89276c56b743191a4a7ff9cced535c48
+      uses: hakierspejs/jekyll-screenshot-github-action@1.0
