@@ -4,6 +4,6 @@
 
 ![md](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)
 
-o7fire.tk sourcecode
+o7fire.tk nightly-sourcecode
 
 [preview](https://o7-fire.github.io/mossad/)
