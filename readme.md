@@ -1,3 +1,5 @@
+# Volas' Laziness Detector
+
 ![banner](https://o7fire.tk/assets/images/logo.png)
 
 o7fire.tk sourcecode will be uploaded here
