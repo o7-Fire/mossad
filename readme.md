@@ -8,3 +8,5 @@ This is just dumpster pt2, o7fire.tk sourcecode will be uploaded here
 
 
 preview at https://o7-fire.github.io/mossad/
+
+imagine ben want me to do pr but i dont even know tf is pr
