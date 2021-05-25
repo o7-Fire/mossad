@@ -1,4 +1,4 @@
-# Volas' Laziness Detector
+# About
 
 ![banner](https://o7fire.tk/assets/images/logo.png)
 
