@@ -7,3 +7,5 @@
 o7fire.tk nightly-sourcecode
 
 [preview](https://o7-fire.github.io/mossad/)
+
+smh who make that sick banner
