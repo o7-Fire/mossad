@@ -1,4 +1,4 @@
-# Assad died for your sin.
+sin.
 
 ![banner](./assets/images/logo.png)
 
