@@ -1,4 +1,4 @@
-# sin.
+# sin tax cos.
 
 ![banner](./assets/images/logo.png)
 
