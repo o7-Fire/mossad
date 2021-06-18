@@ -11,3 +11,4 @@ o7fire.tk ~~nightly~~ buggy-sourcecode
 smh who make that sick banner
 
 
+<p align="center"><img src="https://profile-counter.glitch.me/%7Bsketchyirishman%7D/count.svg" alt="o7fire :: Visitor's Count" /></p>
