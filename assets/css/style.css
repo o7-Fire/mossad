@@ -1,0 +1,9 @@
+.slider-autoplay-stealth {
+    margin: -1px;
+    display: flex;
+    width: 12%;
+    align-self: flex-end;
+    justify-content: flex-end;
+    align-items: flex-end;
+    top: 4pt;
+}
