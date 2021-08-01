@@ -1,4 +1,5 @@
 # sin tax cos.
+## this the mobile ver btw
 
 ![banner](./assets/images/logo.png)
 
