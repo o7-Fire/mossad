@@ -2,9 +2,9 @@ name: o7 site CI
 
 on:
   push:
-    branches: [ main ]
+    branches: [ mobile ]
   pull_request:
-    branches: [ main ]
+    branches: [ mobile ]
 
 jobs:
   build:
