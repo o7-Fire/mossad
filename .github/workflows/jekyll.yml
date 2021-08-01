@@ -1,4 +1,4 @@
-name: O7 site CI
+name: o7 site CI
 
 on:
   push:
