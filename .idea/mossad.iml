@@ -16,5 +16,6 @@
     <orderEntry type="library" name="smooth-scroll.polyfills" level="application" />
     <orderEntry type="library" name="feather-icons" level="application" />
     <orderEntry type="library" name="jquery-3.4.1" level="application" />
+    <orderEntry type="library" name="pay" level="application" />
   </component>
 </module>
