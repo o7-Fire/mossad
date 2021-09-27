@@ -1,3 +1,5 @@
+//COPYRIGHT VOLAS171 ALL RIGHTS RESERVED 
+
 function howToContactNexity() {
     alert("Add @Nexity#3107 to discord and dm him and wait 3 month until he reply or join his server then spam ping him or https://o7fire.ml/nexity");
 }
