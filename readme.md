@@ -1,12 +1,6 @@
 # sin tax cos.
+dear o7fire you have 3 hours to remove this or the dcma will arrive since im the actual owner of the code in this repository (as shows the ownership of it :) ) 
 
-![banner](./assets/images/logo.png)
+additionally you will have to cease and decease o7fire.me or concecuences for using a dcma striked content will arrive
 
-![md](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)
-
-1984
-o7fire.tk ~~nightly~~ buggy-sourcecode
-
-[preview](https://o7-fire.github.io/mossad/)
-
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bo7%7D/count.svg" alt="o7 :: Visitor's Count" /></p>
+farewell mossad
