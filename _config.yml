@@ -1,0 +1,5 @@
+languages: ["en"]
+exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: en
+languageNames:
+  en: English
