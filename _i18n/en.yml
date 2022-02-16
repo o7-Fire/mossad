@@ -1,0 +1,11 @@
+site:
+  name: o7 Fire Website
+  tagline: what is this
+  description: About website, nothing else
+  keywords: o7Fire
+
+main:
+  welcomeSection:
+    anchor: welcome
+    heading: this is heading
+    p1: aaaaaaaaaa
