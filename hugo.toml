@@ -7,7 +7,7 @@ theme = "anubis"
 [params]
     author = "o7 Fire"
 
-    dateFormat = "2019-09-02"
+    dateFormat = "2006-09-02"
     paginationSinglePost = true
     style = "auto"
     #mainSections = [ "posts" ] # which sections should be on index/main page
