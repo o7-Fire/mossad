@@ -1,0 +1,56 @@
+baseURL: "/"
+languageCode: "en-us"
+defaultContentLanguage: en
+title: "o7 Fire"
+theme: "anubis"
+
+params:
+  author: "o7 Fire"
+  description: "Very real"
+  # Uncomment if you need this
+  # images:
+  #   - images/og-featured.png # relative path to "static" directory
+  # customCSS:
+  #   - css/my.css # relative path to "assets" directory (don't use main.css filename)
+  # customJS:
+  #   - js/main.js # relative path to "assets" directory
+  dateFormat: "2006-01-02"
+  paginationSinglePost: true
+  style: auto
+  #mainSections: [ "posts" ] # which sections should be on index/main page
+  sectionsWithFullContentOnListPage: [ "notes" ] # for which sections content should be displayed on list pages
+  readMore: false # show read more button
+  readNextPosts: 5  # show 5 related posts, 0 by default
+  disableSummary: false
+  toc: true # display Table of Contents
+  tocWordCount: 300 # ...when a post is longer than 300 words
+  copyCodeButton: true # true by default
+  #rssAsSocialIcon: true
+  mathjax: true # https://www.mathjax.org/
+
+  social:
+    - id: github
+      name: o7-Fire
+#  - id: hugo
+#    url: "https://gohugo.io/"
+#    icon: "hugo"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # enable raw HTML in Markdown
+
+menu:
+  main:
+    - identifier: "posts"
+      name: "Posts"
+      url: "/"
+      weight: 1
+    - identifier: "tags"
+      name: "Tags"
+      url: "/tags/"
+      weight: 2
+    - identifier: "archives"
+      name: "Archives"
+      url: "/archives/"
+      weight: 3
