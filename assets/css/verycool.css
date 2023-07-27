@@ -3,3 +3,17 @@ video{
     height: auto;
     display: block;
 }
+
+@font-face {
+    font-family: 'Pigpen Cipher';
+    src: url('/fonts/pigpen-cipher/PigpenCipher.otf') format('opentype');
+}
+
+.pigpen {
+    font-family: 'Pigpen Cipher';
+    font-size: 2em;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    line-height: 1em;
+}
