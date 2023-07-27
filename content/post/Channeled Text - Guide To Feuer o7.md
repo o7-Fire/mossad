@@ -1,5 +1,5 @@
 +++ 
-author = "o7 Fire" 
+author = "Tofuscan" 
 title = "Channeled Text - Guide To Feuer o7" 
 date = "2023-07-27" 
 description = "To Reach Salvation And Eternal Nirvana" 
