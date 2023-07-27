@@ -8,5 +8,5 @@ tags = [ "fire" ]
 
 ## Channeled Text - Guide To Feuer o7
 
-<video src="https://cdn.discordapp.com/attachments/921595377923268708/1133693549737680972/y.mp4"></video>
+<video controls src="https://cdn.discordapp.com/attachments/921595377923268708/1133693549737680972/y.mp4"></video>
 
