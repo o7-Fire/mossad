@@ -2,7 +2,7 @@
 author: "Itzbenz"
 title: "Sabaton - To Tax Office and Back"
 summary:  "SABATON Founders Ordered To Pay Hundreds Of Thousands Of Dollars To Swedish Tax Agency"
-
+tags: [ "music", "IRS"] 
 date: "2023-06-28"
 ---
 
