@@ -10,7 +10,7 @@ params:
   title: "o7-Fire"
   # Uncomment if you need this
   images:
-    - o7AFB.png
+    - o7V.png
   customCSS:
      - css/verycool.css # relative path to "assets" directory (don't use main.css filename)
   # customJS:
