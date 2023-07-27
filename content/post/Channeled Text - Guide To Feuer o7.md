@@ -6,6 +6,13 @@ description: "To Reach Salvation And Eternal Nirvana"
 tags: [ "fire" , "schizophernia"] 
 ---
 
+<style>
+/* Pigpen Cipher delete to remove effect*/
+#main {
+    font-family: "Pigpen Cipher";
+}
+</style>
+
 To Reach Salvation And Eternal Nirvana
 
 <video controls loop src="https://cdn.discordapp.com/attachments/921595377923268708/1133693549737680972/y.mp4"></video>
