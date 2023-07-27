@@ -3,7 +3,7 @@ languageCode: "en-us"
 defaultContentLanguage: en
 title: "o7 Fire"
 theme: "anubis"
-
+sectionPagesMenu: true
 params:
   author: "o7 Fire"
   description: "Very real"
@@ -17,6 +17,7 @@ params:
   dateFormat: "2006-01-02"
   paginationSinglePost: true
   style: auto
+
   #mainSections: [ "posts" ] # which sections should be on index/main page
   sectionsWithFullContentOnListPage: [ "notes" ] # for which sections content should be displayed on list pages
   readMore: false # show read more button
