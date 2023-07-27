@@ -6,10 +6,11 @@ theme: "anubis"
 sectionPagesMenu: true
 params:
   author: "o7 Fire"
-  description: "Very real"
+  description: "o7-Fire Website"
+  title: "o7-Fire"
   # Uncomment if you need this
-  # images:
-  #   - images/og-featured.png # relative path to "static" directory
+  images:
+     - https://github.com/o7-Fire/General/raw/master/Misc/Logo/Logo/o7AFC.svg
   customCSS:
      - css/verycool.css # relative path to "assets" directory (don't use main.css filename)
   # customJS:
@@ -41,6 +42,9 @@ markup:
     renderer:
       unsafe: true # enable raw HTML in Markdown
 
+taxonomies:
+  tag: "tags"
+  category: "categories"
 menu:
   main:
     - identifier: "posts"
