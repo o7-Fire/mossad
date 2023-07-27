@@ -9,7 +9,7 @@ videos: [ "https://cdn.discordapp.com/attachments/921595377923268708/11336935497
 
 <style>
 /* Pigpen Cipher delete to remove effect*/
-#main {
+body {
     font-family: "Pigpen Cipher";
 }
 </style>
