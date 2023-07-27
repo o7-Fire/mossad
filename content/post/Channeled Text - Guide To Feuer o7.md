@@ -23,12 +23,7 @@ Blessing
 </p>
 
 # Introduction
-<style>
-/* Pigpen Cipher delete to remove effect*/
-body {
-    font-family: "Pigpen Cipher";
-}
-</style>
+
 Ya Ayyuhal Lazina Amanu Minallaha Muslimun,
 <p class="pigpen">
 </p> Treat Others Equally And Respect Them Equally.
