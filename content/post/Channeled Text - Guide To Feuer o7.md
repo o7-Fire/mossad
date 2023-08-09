@@ -10,7 +10,7 @@ videos: [ "https://cdn.discordapp.com/attachments/921595377923268708/11336935497
 <style>
 /* Pigpen Cipher delete to remove effect*/
 body {
-    font-family: "Pigpen Cipher";
+    font-family: "vcr";
 }
 </style>
 
@@ -21,6 +21,9 @@ To Reach Salvation And Eternal Nirvana
 <p class="pigpen">
 Blessing
 </p>
+
+
+## ...
 
 {{< summary >}}
 Ya Ayyuhal Lazina Amanu Minallaha Muslimun,
