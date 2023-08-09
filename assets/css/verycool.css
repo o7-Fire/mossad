@@ -22,7 +22,7 @@ video{
     font-family: 'Vcr Osd Mono';
 }
 
-/* Hide the blockquote */
-blockquote.vcr {
+/* Hide the blockquote in the summary */
+.summary blockquote.vcr {
     display: none;
 }
