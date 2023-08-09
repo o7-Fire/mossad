@@ -1,6 +1,7 @@
 ---
 author: "Tofuscan" 
 title: "Channeled Text - Guide To Feuer o7" 
+summary:     " "
 date: "2023-07-27" 
 description: " " 
 tags: [ "fire" , "schizophernia"] 
