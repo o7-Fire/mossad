@@ -20,3 +20,9 @@ video{
 
 .vcr {
     font-family: 'Vcr Osd Mono';
+}
+
+/* Hide the blockquote */
+blockquote.vcr {
+    display: none;
+}
