@@ -22,7 +22,9 @@ To Reach Salvation And Eternal Nirvana
 Blessing
 </p>
 
-<blockquote class="vcr">
+<blockquote class="ya-ayyuhal">
+<p class="pigpen">
 Ya Ayyuhal Lazina Amanu Minallaha Muslimun,
+</p>
 Treat Others Equally And Respect Them Equally.
 </blockquote>
