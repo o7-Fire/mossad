@@ -18,21 +18,6 @@ To Reach Salvation And Eternal Nirvana
 
 <video controls src="https://cdn.discordapp.com/attachments/921595377923268708/1133693549737680972/y.mp4"></video>
 
-<p class="pigpen">
-Blessing
-</p>
-
-
-## ...
-
-{{< summary >}}
-Ya Ayyuhal Lazina Amanu Minallaha Muslimun,
-Treat Others Equally And Respect Them Equally.
-{{< /summary >}}
-
-<details>
-<summary>...</summary>
-
 <blockquote class="vcr">
 <span class="pigpen">
 Ya Ayyuhal Lazina Amanu Minallaha Muslimun,
@@ -40,4 +25,6 @@ Ya Ayyuhal Lazina Amanu Minallaha Muslimun,
 Treat Others Equally And Respect Them Equally.
 </blockquote>
 
-</details>
+<p class="pigpen">
+Blessing
+</p>
