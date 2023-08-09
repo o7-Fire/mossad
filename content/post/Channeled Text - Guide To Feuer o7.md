@@ -16,7 +16,7 @@ body {
 }
 </style>
 
-To Reach Salvation And Eternal Nirvana
+We do be here for something purpose
 
 <video controls src="https://cdn.discordapp.com/attachments/921595377923268708/1133693549737680972/y.mp4"></video>
 
