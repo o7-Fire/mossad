@@ -27,9 +27,14 @@ Ya Ayyuhal Lazina Amanu Minallaha Muslimun,
 Treat Others Equally And Respect Them Equally.
 {{< /summary >}}
 
-<blockquote class="ya-ayyuhal">
+<details>
+<summary>...</summary>
+
+<blockquote class="vcr">
 <span class="pigpen">
 Ya Ayyuhal Lazina Amanu Minallaha Muslimun,
 </span>
 Treat Others Equally And Respect Them Equally.
 </blockquote>
+
+</details>
