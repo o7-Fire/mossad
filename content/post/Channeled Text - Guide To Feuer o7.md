@@ -22,8 +22,6 @@ To Reach Salvation And Eternal Nirvana
 Blessing
 </p>
 
-# Introduction
-
 Ya Ayyuhal Lazina Amanu Minallaha Muslimun,
-<p class="pigpen">
+<p class="vcr">
 </p> Treat Others Equally And Respect Them Equally.
